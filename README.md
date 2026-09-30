@@ -1,5 +1,5 @@
 # Arawra
-|Links||
+|Link|Tree|
 |---|---|
 |Website |[Arawra.net](https://arawra.net)|
 |itch.io|[itch.io/arawra](https://evepanzarino.itch.io/arawra)|
