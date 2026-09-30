@@ -1,6 +1,7 @@
 # Arawra
+|||
 |---|---|
-| Website |[Arawra.net](https://arawra.net)|
+|Website |[Arawra.net](https://arawra.net)|
 |itch.io|[itch.io/arawra](https://evepanzarino.itch.io/arawra)|
 
 | MacOS | Windows | Linux |
