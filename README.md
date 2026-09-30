@@ -1,7 +1,7 @@
 # Arawra
-|Arawra |Links|
+|Platform |Links|
 |---|---|
-|Website |[Arawra.net](https://arawra.net)|
+|React Web Application |[Arawra.net](https://arawra.net)|
 |itch.io|[itch.io/arawra](https://evepanzarino.itch.io/arawra)|
 
 | MacOS | Windows | Linux |
