@@ -1,10 +1,10 @@
 # Arawra
 [Arawra.net](https://arawra.net)
 
-| Platform | Download |
+| MacOS | Windows | Linux |
 |---|---|---|
-| macOS (Apple silicon and Intel) | Windows (64-bit) | Linux (x86-64)
-[Arawra-macOS.zip](https://arawra.net/download/Arawra-macOS.zip)| [Arawra-Windows.zip](https://arawra.net/download/Arawra-Windows.zip)| [Arawra-Linux.tar.gz](https://arawra.net/download/Arawra-Linux.tar.gz) 
+| macOS (Apple silicon and Intel) | Windows (64-bit) | Linux (x86-64) |
+[Arawra-macOS.zip](https://arawra.net/download/Arawra-macOS.zip)| [Arawra-Windows.zip](https://arawra.net/download/Arawra-Windows.zip)| [Arawra-Linux.tar.gz](https://arawra.net/download/Arawra-Linux.tar.gz) |
 
 A 3d voxel art animation MMO.
 
