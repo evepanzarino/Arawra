@@ -29,5 +29,6 @@ Future plans to make a React Native version for an Android and IOS app.
 |---|---|
 |Youtube|[youtube.com/@arawrammo](https://youtube.com/@arawrammo)|
 |Bluesky|[bsky.app/profile/arawra.net](https://bsky.app/profile/arawra.net)|
+|Facebook|[facebook.com/arawrammo](https://facebook.com/arawrammo)
 |Instagram|[instagram.com/arawrammo](https://instagram.com/arawrammo)|
 
