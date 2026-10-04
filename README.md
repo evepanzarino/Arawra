@@ -24,3 +24,10 @@ It is heavily inspired by WoW, RuneScape and Web apps like FarmVille.
 Built in React and Lua. 
 
 Future plans to make a React Native version for an Android and IOS app. 
+
+|Social |Links|
+|---|---|
+|Youtube|[youtube.com/@arawrammo](https://youtube.com/@arawrammo)|
+|Bluesky|[bsky.app/profile/arawra.net](https://bsky.app/profile/arawra.net)|
+|Instagram|[instagram.com/arawrammo](https://instagram.com/arawrammo)|
+
