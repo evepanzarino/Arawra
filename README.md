@@ -6,7 +6,7 @@
 
 | MacOS | Windows | Linux |
 |---|---|---|
-[Arawra-macOS.zip](https://arawra.net/download/Arawra-macOS.zip)| [Arawra-Windows.zip](https://arawra.net/download/Arawra-Windows.zip)| [Arawra-Linux.tar.gz](https://arawra.net/download/Arawra-Linux.tar.gz) |
+[Arawra-Launcher-macOS.zip](https://arawra.net/download/Arawra-macOS.zip)| [Arawra-Launcher-Windows.zip](https://arawra.net/download/Arawra-Windows.zip)| [Arawra-Launcher-Linux.tar.gz](https://arawra.net/download/Arawra-Linux.tar.gz) |
 
 A 3d voxel art animation MMO.
 
