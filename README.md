@@ -7,17 +7,6 @@ Playable in browser and on a downloadable client.
 
 It is heavily inspired by WoW, RuneScape and Web apps like FarmVille. 
 
-**Features:**
-- Character customization
-- Leveling Skills
-- Friends
-- Equipment
-- Dailies &amp; Quests
-  
-Built in React and Lua. 
-
-Future plans to make a React Native version for an Android and IOS app. 
-
 
 ## Play on Web - Support us on itch.io
 
@@ -31,6 +20,19 @@ Future plans to make a React Native version for an Android and IOS app.
 | MacOS | Windows | Linux |
 |---|---|---|
 [Arawra-Launcher-macOS.zip](https://arawra.net/download/Arawra-macOS.zip)| [Arawra-Launcher-Windows.zip](https://arawra.net/download/Arawra-Windows.zip)| [Arawra-Launcher-Linux.tar.gz](https://arawra.net/download/Arawra-Linux.tar.gz) |
+
+
+
+**Features:**
+- Character customization
+- Leveling Skills
+- Friends
+- Equipment
+- Dailies &amp; Quests
+  
+Built in React and Lua. 
+
+Future plans to make a React Native version for an Android and IOS app. 
 
 
 ## Arawra Social Accounts
