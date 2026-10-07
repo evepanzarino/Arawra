@@ -1,5 +1,6 @@
 # Arawra
 
+## Play on Web & Support us on itch.io
 
 |Platform |Links|
 |---|---|
