@@ -1,8 +1,12 @@
 # Arawra
+
+
 |Platform |Links|
 |---|---|
 |React App |[Arawra.net](https://arawra.net)|
 |itch.io|[itch.io/arawra](https://evepanzarino.itch.io/arawra)|
+
+## Download the Launcher
 
 | MacOS | Windows | Linux |
 |---|---|---|
