@@ -30,6 +30,8 @@ Built in React and Lua.
 
 Future plans to make a React Native version for an Android and IOS app. 
 
+## Arawra Social Accounts
+
 |Social |Links|
 |---|---|
 |Youtube|[youtube.com/@arawrammo](https://youtube.com/@arawrammo)|
