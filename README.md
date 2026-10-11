@@ -25,14 +25,36 @@ It is heavily inspired by WoW, RuneScape and Web apps like FarmVille.
 
 **Features:**
 - Character customization
+   - hair length
+   - hair color
+   - skin color
+   - nose color
 - Leveling Skills
-  - mining
+   - hitpoints
+   - melee
+   - defense
+   - magic
+   - ranged
+   - zodiac
+   - mining
    - fishing
    - forestry
    - farming
    - pets
 - Friends
 - Equipment
+   - head
+   - neck
+   - ammo
+   - back
+   - shoulders
+   - gloves
+   - chest
+   - legs
+   - boots
+   - ring
+   - weapon
+   - off-hand
 - Dailies &amp; Quests
   
 Built in React and Lua. 
@@ -54,3 +76,4 @@ Future plans to make a React Native version for an Android and IOS app.
 ![Arawra Launcher Screenshot](screenshots/launcher.png)
 ![Arawra Character Customization Screenshot](screenshots/character-customization.png)
 ![Arawra Tree Chop Screenshot](screenshots/tree-chop.png)
+![Arawra Fishing](screenshots/fishing.png)
