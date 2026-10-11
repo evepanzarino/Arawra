@@ -26,6 +26,11 @@ It is heavily inspired by WoW, RuneScape and Web apps like FarmVille.
 **Features:**
 - Character customization
 - Leveling Skills
+  - - mining
+  - - fishing
+  - - forestry
+  - - farming
+  - - pets
 - Friends
 - Equipment
 - Dailies &amp; Quests
