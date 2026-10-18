@@ -77,4 +77,4 @@ Future plans to make a React Native version for an Android and IOS app.
 ![Arawra Character Customization Screenshot](screenshots/character-customization.png)
 ![Arawra Tree Chop Screenshot](screenshots/tree-chop.png)
 ![Arawra Fishing](screenshots/fishing.png)
-![Arawra Candy Wyvern](screenshots/Candy-wyvern.jpg)
+![Arawra Candy Wyvern](Candy-wyvern.jpg)
